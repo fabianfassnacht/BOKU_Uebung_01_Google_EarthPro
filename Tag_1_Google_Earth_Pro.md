@@ -41,12 +41,14 @@ Wichtig für alle Sitzungen: Bitte achten Sie auf die korrekte Benennung Ihrer O
 
 • Betrachten Sie mehrere Gebiete Ihrer Wahl in Wien und Umgebung, um nur anhand der Bilder folgende Fragen zu beantworten:
 
-1)Zu welcher Jahreszeit wurde die jeweilige Bildaufnahme gemacht? Woran können die einzelnen Jahreszeiten generell erkannt werden?
+1) Zu welcher Jahreszeit wurde die jeweilige Bildaufnahme gemacht? Woran können die einzelnen Jahreszeiten generell erkannt werden?
 
 2) Können Sie Monat und Jahr feststellen?
 
 • Navigieren Sie zur Türkenschanze und suchen Sie die Mensa 
+
 3) Woran haben Sie die Mensa erkannt?
+
 4) Wie beurteilen Sie die Qualität der Bilddaten?
 
 ➔ Notieren Sie sich Ihre Antworten, wir besprechen diese im Seminar.
@@ -109,11 +111,14 @@ Wenn Sie dieses Handout durchgearbeitet haben, haben Sie
 1) Zeigen Sie Ihre Digitalisierungen für die Türkenschanze in Google Earth Pro und QGIS in einem Screenshot.
 
 2) Zeigen Sie für einen Ort Ihrer Wahl in Wien und Umgebung je ein Beispiel für eine Aufnahme in Google Earth Pro in den vier verschiedenen Jahreszeiten (ebenfalls mit Screenshots). Woran kann man die jeweilige Jahreszeit erkennen (außer am Aufnahmedatum)? Bitte liefern Sie eine kurze schriftliche Erläuterung.
+
+3) Messen Sie in Google Earth Pro die Distanz zwischen dem BOKU Campus auf der Türkenschanze und dem BOKU Campus in Tulln.
    
 Zur Vorbereitung auf das nächste Seminar:
 
-3) Verschaffen Sie sich einen Überblick über das „Elektromagnetische Spektrum“ und präsentieren Sie dazu 5 Fakten, die für das Grundverständnis der Fernerkundung mit optischen Sensoren wichtig sind. Alle Fakten müssen mit einer Datenquelle belegt werden.
-4) Verschaffen Sie sich einen Überblick über Sentinel-2-Satellitendaten (A, B, C). Geben Sie in einer Tabelle an, welche Spektralkanäle welche Wellenlängenbereiche des Lichts abdecken und in welcher räumlichen Auflösung (Pixelgröße) die einzelnen Spektralkanäle vorliegen.
+4) Verschaffen Sie sich einen Überblick über das „Elektromagnetische Spektrum“ und präsentieren Sie dazu 5 Fakten, die für das Grundverständnis der Fernerkundung mit optischen Sensoren wichtig sind. Alle Fakten müssen mit einer Datenquelle belegt werden.
+  
+5) Verschaffen Sie sich einen Überblick über Sentinel-2-Satellitendaten (A, B, C). Geben Sie in einer Tabelle an, welche Spektralkanäle welche Wellenlängenbereiche des Lichts abdecken und in welcher räumlichen Auflösung (Pixelgröße) die einzelnen Spektralkanäle vorliegen.
    
 WICHTIG: Denken Sie daran, Ihre Informationsquellen anzugeben.
 
@@ -122,7 +127,7 @@ Speichern Sie Ihre kurze(!) Präsentation als PDF-Datei und benennen Sie diese f
 
 OPTIONALER TEIL der Hausaufgabe 1:
 
-5) Installieren Sie gegebenenfalls die SNAP-Software (Software der European Space Agency - ESA) auf Ihrem privaten Rechner (Empfehlung: Version "All Toolboxes"). Die Software findet sich hier:
+6) Installieren Sie gegebenenfalls die SNAP-Software (Software der European Space Agency - ESA) auf Ihrem privaten Rechner (Empfehlung: Version "All Toolboxes"). Die Software findet sich hier:
 
 [ESA SNAP Software]([ESA SNAP Software](https://step.esa.int/main/download/snap-download/))
 
