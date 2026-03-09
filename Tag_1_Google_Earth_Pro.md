@@ -24,7 +24,7 @@ Wichtig für alle Sitzungen: Bitte achten Sie auf die korrekte Benennung Ihrer O
 ## Zeitliche und räumliche Orientierung in Google Earth Pro
 • Starten Sie Google Earth Pro* und machen Sie sich mit der Oberfläche vertraut. (* Verwenden Sie bitte die App/das Programm! Die webbasierte Version ist weniger umfangreich!)
 
-• Nutzen Sie die Tipps zum Programmstart um zu erlernen wie Sie in Google Earth navigieren können (sowohl räumlich als auch zeitlich).
+• Nutzen Sie die Tipps zum Programmstart um zu erlernen wie Sie in Google Earth navigieren können (sowohl räumlich als auch zeitlich). Sollten die Tipps nicht automatisch erscheinen, können Sie diese über **Help** -> **Start Up Tips** aufrufen.
 
 • Nutzen Sie alternativ zum Zoombalken das Mausrad um näher an die Erdoberfläche zu zoomen.
 
