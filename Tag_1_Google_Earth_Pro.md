@@ -1,6 +1,6 @@
 ﻿Fernerkundung in der Landschaftsplanung - Tag 1 - Google Earth Pro
 
-**Autoren:** Diese Übung wurde von Dr. Anika Sieber, FU Berlin entwickelt. Für die Verwendung an der BOKU wurden von Fabian Fassnacht kleinere Anpassungen durchgeführt. 
+**Autoren:** Diese Übung wurde von **Dr. Anika Sieber**, FU Berlin entwickelt. Für die Verwendung an der BOKU wurden von Fabian Fassnacht kleinere Anpassungen durchgeführt. 
 
 ## 1 Bildinterpretation mit Google Earth Pro
 
