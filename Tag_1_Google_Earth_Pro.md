@@ -120,7 +120,8 @@ WICHTIG: Denken Sie daran, Ihre Informationsquellen anzugeben.
 OPTIONALER TEIL der Hausaufgabe 1:
 
 5) Installieren Sie gegebenenfalls die SNAP-Software (Software der European Space Agency - ESA) auf Ihrem privaten Rechner (Empfehlung: Version "All Toolboxes"). Die Software findet sich hier:
-[Registration]([http://www.registration.com](https://step.esa.int/main/download/snap-download/))
+
+[ESA SNAP Software]([ESA SNAP Software](https://step.esa.int/main/download/snap-download/))
 
 Speichern Sie Ihre kurze(!) Präsentation als PDF-Datei und benennen Sie diese folgendermaßen: Nachname_Vorname_HA1.pdf - laden Sie die Hausaufgabe auf BOKUlearn hoch.
 
