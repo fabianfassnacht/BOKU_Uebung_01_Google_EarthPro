@@ -101,3 +101,26 @@ Wenn Sie dieses Handout durchgearbeitet haben, haben Sie
 ✓ sich damit beschäftigt, wie man Satellitenbilder zeitlich und räumlich einordnen kann und
 
 ✓ gelernt, Geodaten in Google Earth für Ihr eigenes Projekt zu nutzen.
+
+
+
+## HAUSAUFGABE
+
+1) Zeigen Sie Ihre Digitalisierungen für die Türkenschanze in Google Earth Pro und QGIS in einem Screenshot.
+
+2) Zeigen Sie für einen Ort Ihrer Wahl in Wien und Umgebung je ein Beispiel für eine Aufnahme in Google Earth Pro in den vier verschiedenen Jahreszeiten (ebenfalls mit Screenshots). Woran kann man die jeweilige Jahreszeit erkennen (außer am Aufnahmedatum)? Bitte liefern Sie eine kurze schriftliche Erläuterung.
+   
+Zur Vorbereitung auf das nächste Seminar:
+
+3) Verschaffen Sie sich einen Überblick über das „Elektromagnetische Spektrum“ und präsentieren Sie dazu 5 Fakten, die für das Grundverständnis der Fernerkundung mit optischen Sensoren wichtig sind. Alle Fakten müssen mit einer Datenquelle belegt werden.
+4) Verschaffen Sie sich einen Überblick über Sentinel-2-Satellitendaten (A, B, C). Geben Sie in einer Tabelle an, welche Spektralkanäle welche Wellenlängenbereiche des Lichts abdecken und in welcher räumlichen Auflösung (Pixelgröße) die einzelnen Spektralkanäle vorliegen.
+   
+WICHTIG: Denken Sie daran, Ihre Informationsquellen anzugeben.
+
+OPTIONALER TEIL der Hausaufgabe 1:
+
+5) Installieren Sie gegebenenfalls die SNAP-Software (Software der European Space Agency - ESA) auf Ihrem privaten Rechner (Empfehlung: Version "All Toolboxes"). Die Software findet sich hier:
+ <a href="[http://example.com/](https://step.esa.int/main/download/snap-download/)" target="_blank">example</a>
+
+Speichern Sie Ihre kurze(!) Präsentation als PDF-Datei und benennen Sie diese folgendermaßen: Nachname_Vorname_HA1.pdf - laden Sie die Hausaufgabe auf BOKUlearn hoch.
+
