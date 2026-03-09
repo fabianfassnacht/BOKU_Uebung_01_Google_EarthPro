@@ -66,17 +66,13 @@ In Google Earth können Geodaten selbst erstellt und in einem Datenformat gespei
 
 • Nutzen Sie die Werkzeugleiste  (Siehe Markierung 4, Abbildung 1). um…
 
- - die S-Bahn (einen individuellen Abschnitt) als Linie zu
-   digitalisieren.
- -  die Fläche des Türkenschanzparjes als Polygon zu
-   digitalisieren (ENTWEDER als Umrandung mit halb transparenter Füllung
-   ODER nur Umrandung ohne Füllung).
-  - die BOKU Gebäude auf der Türkenschanze zu markieren (vergeben Sie als Namen die Gebäudenamen, wählen Sie die Symbole z.B. entsprechend der Fachbereiche bzw. Nutzung aus).
+ - die S-Bahn (einen individuellen Abschnitt) als Linie zu digitalisieren.
+ - die Fläche des Türkenschanzparkes als Polygon zu digitalisieren (ENTWEDER als Umrandung mit halb transparenter Füllung ODER nur Umrandung ohne Füllung).
+ - die BOKU Gebäude auf der Türkenschanze zu markieren (vergeben Sie als Namen die Gebäudenamen, wählen Sie die Symbole z.B. entsprechend der Fachbereiche bzw. Nutzung aus).
 
 • Symbole und Farben können in dem sich öffnenden Fenster angepasst werden (Markierung 1, Abbildung 2)
 
 WICHTIG: Punkte, Polygone und Linien können nur bearbeitet und auch ergänzt werden, solange dieses Fenster geöffnet ist!
-
 
 
 ![Figure 2: Digitalisierung in Google Earth Pro](Fig_02.png)
@@ -93,7 +89,7 @@ WICHTIG: Punkte, Polygone und Linien können nur bearbeitet und auch ergänzt we
 
 • Wählen Sie in der oberen Menüleiste > Layer > Add Layer > Add Vector Layer
 
-• Im sich öffnenden Fenster des Data Source Manager | Vector > Vector klicken Sie auf den Browse-Button . Navigieren Sie hier zu Ihrem Ordner und laden Sie Ihre erstellte kmz-Datei.
+• Im sich öffnenden Fenster des Data Source Manager | Vector > Vector klicken Sie auf den Browse-Button. Navigieren Sie hier zu Ihrem Ordner und laden Sie Ihre erstellte kmz-Datei.
 
 • Exportieren Sie nun die Layer-Dateien (jeweils Points, Polygons und Polylines) als Shapefiles (Rechtsklick > Export > Save Features As… > „ESRI Shapefile“) und speichern Sie diese Dateien in Ihrem FE-Ordner.
 
